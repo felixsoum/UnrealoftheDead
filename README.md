@@ -74,5 +74,6 @@ https://gfycat.com/yawningevergreenamazonparrot
 ### Add line trace damage
 1. Add line trace to gun
 1. Readjust crosshair (-5 height)
+1. Change BP_Zombie mesh physics preset to block visibility
 1. Add damage function to BP_Zombie and call it
     1. Set attacker input to pass to blackboard
